@@ -1,1 +1,1 @@
-QuickCommerce - Version Alpha
+QuickCommerce - Version Alpha-Beta
